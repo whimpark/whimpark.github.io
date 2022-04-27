@@ -29,11 +29,13 @@
             <div class="column has-text-white">
                 <h3>More Links</h3>
                 {% for sitepage in site.html_pages %}
+                
+                {% unless sitepage.url == '/' or sitepage.url == '/page/404'  or sitepage.url == '/page/blog'  or sitepage.url == '/page/project' limit: 3 %}
                 <!-- {% unless sitepage.url == '/'  limit: 2 %} -->
                 <li>
                     <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
                 </li>
-                <!-- {% endunless %} -->
+                {% endunless %}
                 {% endfor %}
                 <li>
                     <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
