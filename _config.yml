@@ -1,11 +1,12 @@
 # WhatATheme
 markdown: kramdown
 
+
+brandUrl: 'xlxf.cn'
 # URL of the Site
-url: 'xlxf.cn'
+url: 'http://xlxf.cn'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
-
 # Title of the Site
 title: Earn money online (survey, click, dollar)
 # Description of the Site
