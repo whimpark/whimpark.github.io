@@ -8,11 +8,11 @@ tags:
 - dollar
 - oke
 - online
-- shortn url
+- shorten url
 ---
 
 ## oke
-You can earn cash by shortn you url.
+you get paid by shorten and share your url.
 
 
 ## Link
