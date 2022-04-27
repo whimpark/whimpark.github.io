@@ -1,13 +1,13 @@
 - name: Neobux
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: /assets/images/neobux.jpg
   link: https://oke.io/mm2B
   description: you get paid to take surveys, view advertisements, complete quizzes, play games and more. 
 - name: ySense
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: /assets/images/ysense.jpg
   link: https://oke.io/xLAoGfr
   description: you get paid to take surveys, view advertisements, complete quizzes, play games and more. 
 - name: OKE
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: /assets/images/oke.jpg
   link: https://oke.io/ref/xlxwhy
   description: you get paid to take surveys, view advertisements, complete quizzes, play games and more. 
 
