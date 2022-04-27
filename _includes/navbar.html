@@ -5,6 +5,8 @@
         <div class="navbar-brand">
             <a class="navbar-item is-uppercase"
                 href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
+                <img src="/assets/svg/favicon.svg" >
+                &nbsp;
                 <strong>{{site.title}}</strong>
             </a>
             <div class="navbar-burger" data-target="navbar-menu">
